@@ -43,7 +43,6 @@ h3{
 .title-img {
   width: 60%;
   transform: rotate(25deg);
-  position: absolute;
 right: 40px;
 }
 .features-item{
@@ -54,8 +53,7 @@ right: 40px;
 #features{
   padding: 1% 15%;
   background-color: #fff;
-  position: relative;
-  z-index: 1;
+  
 }
 .fa-4x{
   margin: 15px auto;
